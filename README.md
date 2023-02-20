@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/prathamesh_2117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/prathamesh_2117" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-chavan-5532261b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathamesh-chavan-5532261b4/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/cprathamesh94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/cprathamesh94/" height="30" width="40" /></a>
+<a href="https://twitter.com/prathamesh_2117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathamesh_2117" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prathamesh-chavan-5532261b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh-chavan-5532261b4/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/cprathamesh94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cprathamesh94/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshschavan&show_icons=true&locale=en&layout=compact" alt="prathameshschavan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshschavan&show_icons=true&locale=en" alt="prathameshschavan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshschavan&" alt="prathameshschavan" /></p>
