@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Chavan</h1>
-<h1 align="center"><a href="https://prathameshschavan.github.io/">Portfolio</a></h1>
+<h1 align="center"><a href="https://prathameshschavan.github.io/" target="_blank">Portfolio</a></h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshschavan&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshschavan" /> </p>
